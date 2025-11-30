@@ -1,0 +1,5 @@
+Failed password for admin from 203.0.113.45 port 52300 ssh2
+Accepted password for alice from 192.168.1.10 port 54822 ssh2
+Failed password for root from 198.51.100.23 port 59876 ssh2
+Accepted password for bob from 192.168.1.10 port 34567 ssh2
+Connection closed by 127.0.0.1 port 22
