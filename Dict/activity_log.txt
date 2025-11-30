@@ -1,0 +1,7 @@
+alice login success
+bob login success
+alice file_access
+charlie login failed
+alice logout
+bob file_access
+alice login success

@@ -1,0 +1,4 @@
+username, total_actions, login_count
+alice, 4,2
+bob, 2,1
+charlie, 1,1
